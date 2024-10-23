@@ -4,7 +4,7 @@ function App() {
   
 
   return (
-    <h1>Chai aur react with vite | Rohit Mourya</h1>
+    <h1>First React App</h1>
   )
 }
 
